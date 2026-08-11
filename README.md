@@ -1,74 +1,68 @@
 <div align="center">
-  <h2>Olá, eu sou o Alberto Mario! 🤖</h2>
 
-  <p>
-    🎓 Graduado em <strong>Análise e Desenvolvimento de Sistemas</strong> pela <strong>PUC Minas</strong>.<br>
-    💻 Profissional de tecnologia com interesse em <strong>Suporte, Infraestrutura, Redes, Segurança da Informação e desenvolvimento com .NET</strong>.<br>
-    🚀 Busco constantemente aprimorar meus conhecimentos e transformar aprendizado em projetos e soluções práticas.
-  </p>
-</div>
+# 👋 Olá, eu sou Alberto Mario!
 
-<h3 align="center">🛠️ Tecnologias e habilidades</h3>
+### 🎓 Análise e Desenvolvimento de Sistemas | 💻 Desenvolvimento | ⚙️ .NET | 🌐 Infraestrutura | 🔐 Segurança
 
-<div align="center">
-
-### 💻 Desenvolvimento
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,js,react,reactnative,html,css" />
-
-### 🗄️ Banco de Dados & Ferramentas
-
-<img src="https://skillicons.dev/icons?i=sqlserver,git,github,vscode,visualstudio,nodejs" />
-
-</div>
-
-<h3 align="center">🎯 Áreas de interesse</h3>
-
-<div align="center">
-
-🔹 Suporte Técnico & TI
-🔹 Infraestrutura e Redes
-🔹 Segurança da Informação
-🔹 Desenvolvimento .NET / C#
-🔹 Banco de Dados e SQL
-🔹 Automação e soluções tecnológicas
-
-</div>
-
-<h3 align="center">📚 Sobre minha jornada</h3>
-
-<p align="center">
-  Minha formação em Análise e Desenvolvimento de Sistemas me proporcionou uma base em
-  desenvolvimento de software, banco de dados, engenharia de software e fundamentos de TI.
-  <br><br>
-  Atualmente, meu foco profissional está voltado principalmente para
-  <strong>Suporte, Infraestrutura, Redes, Segurança da Informação e tecnologias .NET</strong>,
-  buscando oportunidades para aplicar meus conhecimentos, adquirir experiência prática
-  e evoluir continuamente na área de tecnologia.
+<p>
+  Graduado em <strong>Análise e Desenvolvimento de Sistemas pela PUC Minas</strong>.
 </p>
 
-<h3 align="center">📊 Meus números e estatísticas 👨‍💻</h3>
+<p>
+  Profissional de tecnologia com interesse em <strong>Desenvolvimento,
+  .NET/C#, Suporte de TI, Infraestrutura, Redes e Segurança da Informação</strong>.
+</p>
 
-<div align="center">
+---
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=albertomario49&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+## 🛠️ Tecnologias
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertomario49&layout=compact&langs_count=8&theme=dark"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,react,reactnative,html,css,sqlserver,git,github,vscode,visualstudio,nodejs" />
+</p>
 
-</div>
+---
 
-<br>
+## 🎯 Foco Profissional
 
-<div align="center">
+💻 Desenvolvimento de Software
+⚙️ .NET / C#
+🖥️ Suporte de TI
+🌐 Infraestrutura e Redes
+🔐 Segurança da Informação
+🗄️ Banco de Dados / SQL
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=albertomario49&theme=dark" />
+---
 
-</div>
+## 🚀 Projetos
 
-<br>
+**🧠 MasterQuiz** — Flashcards e questões de múltipla escolha
+`React` `JavaScript` `Vite`
 
-<div align="center">
+**🚗 U-RIDE** — Plataforma de caronas para estudantes
+`React Native` `JavaScript` `Expo`
 
-📌 <strong>Em constante aprendizado, construindo minha carreira em tecnologia.</strong>
+**💉 Imuniti** — Aplicação para gestão de informações de vacinação
+`React Native` `JavaScript` `Expo`
+
+---
+
+## 📊 GitHub
+
+<p>
+  <img src="https://github-stats-extended.vercel.app/api?username=albertomario49&theme=tokyonight" />
+</p>
+
+<p>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=albertomario49&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contato
+
+<a href="https://github.com/albertomario49">
+  <img src="https://img.shields.io/badge/GitHub-albertomario49-181717?style=for-the-badge&logo=github" />
+</a>
 
 </div>
